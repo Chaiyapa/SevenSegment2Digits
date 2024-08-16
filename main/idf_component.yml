@@ -1,0 +1,7 @@
+dependencies:
+  LED:
+    git: https://github.com/Chaiyapa/LED_Test.git 
+    path: components/LED
+  SEVENSEGMENT:
+    git: https://github.com/Chaiyapa/LED7Segment.git
+    path: components/SevenSegment
